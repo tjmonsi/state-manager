@@ -1,6 +1,6 @@
 {
   "name": "@littleq/state-manager",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Little Q projects' state manager for polymer. It uses Redux.",
   "main": "index.js",
   "scripts": {
